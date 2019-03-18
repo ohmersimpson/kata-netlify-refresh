@@ -1,0 +1,55 @@
+{
+  "sections": [
+    {
+      "title": "About",
+      "nav": [
+        {
+          "text": "Software",
+          "link": "/software/"
+        },
+        {
+          "text": "Users",
+          "link": "/users/"
+        },
+        {
+          "text": "Community",
+          "link": "/community/"
+        }
+      ]
+    },
+    {
+      "title": "Connect",
+      "nav": [
+        {
+          "text": "Mailing Lists",
+          "link": "http://lists.katacontainers.io/cgi-bin/mailman/listinfo"
+        },
+        {
+          "text": "Twitter",
+          "link": "https://twitter.com/airshipproject"
+        },
+        {
+          "text": "IRC: #airshipit",
+          "link": "https://wiki.openstack.org/wiki/Airship#Get_in_Touch"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "nav": [
+        {
+          "text": "Code",
+          "link": "https://git.katacontainers.io/cgit"
+        },
+        {
+          "text": "Releases",
+          "link": "https://wiki.openstack.org/wiki/Airship_Release_Candidate"
+        },
+        {
+          "text": "Documentation",
+          "link": "https://airship-treasuremap.readthedocs.io/en/latest/"
+        }
+      ]
+    }
+  ]
+}

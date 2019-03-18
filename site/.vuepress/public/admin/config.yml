@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AirshipWeb/airship-website
+  repo: NandoJourneyman/kata-containers-site
   branch: master # Branch to update (optional; defaults to master)
 publish_mode: editorial_workflow
 media_folder: "site/.vuepress/public/images"

@@ -1,64 +1,90 @@
 ---
-description: An overview of the Airship project
+description: An overview of the Kata Containers project
 title: Learn
 ---
 
-Donec vulputate ullamcorper lorem. Quisque volutpat nec leo ac cursus. Phasellus consectetur ligula eget sapien elementum, a eleifend nunc bibendum. Morbi ut ultrices odio. Nunc facilisis luctus dolor ut laoreet. Quisque augue eros, mattis vel odio ut, sollicitudin molestie libero. Nunc leo nunc, consequat et commodo sit amet, suscipit eget justo. Nulla venenatis congue mattis. Maecenas tempus convallis dolor a pharetra. Nulla dictum ornare iaculis. Cras non libero rutrum, facilisis orci a, consequat nisl.
+<p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs.</p>
+<p><a href="#">Project Overview</a>  |  <a href="#">Latest Software Release</a></p>
 
 <br>
 
-  <table class="table is-bordered" style="width:100%">
-    <thead>
-        <tr>
-            <th class="is-usecase-header-left">Use Case</th>
-            <th class="is-usecase-header-right">Benefits</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="is-usecase-left">Traditional Cloud Workloads</td>
-            <td class="is-usecase-right">Leverage Airship to deploy both OpenStack-Helm and OpenStack-Helm Logging Monitoring and Alerting to create and manage a full production grade OpenStack environment.</td>
-      </tr>
-      <tr>
-            <td class="is-usecase-left">CI/CD Environment</td>
-            <td class="is-usecase-right">Airship can provide a Kubernetes based containerized CI/CD environment (e.g. gerrit, jenkins, zuul) along with OpenStack VMs for test flexibility.</td>
-      </tr>
-      <tr>
-            <td class="is-usecase-left">Region Controller</td>
-            <td class="is-usecase-right">Airship combined with containerized CI/CD and Artifactory
-            deployments can support centralized management of a fleet of independent Airship installations.</td>
-      </tr>
-      <tr>
-            <td class="is-usecase-left">Containerized Network Functions</td>
-            <td class="is-usecase-right">Provide a Kubernetes environment allowing tenants to create Containerized Network Functions directly on bare metal Kubernetes.</td>
-      </tr>
-    <tr>
-            <td class="is-usecase-left">Generic Helm Workloads</td>
-            <td class="is-usecase-right">Deploy and manage the life cycle of a bare metal Kubernetes Cluster as well as any set of helm-based software on top, e.g. TensorFlow, Hadoop, ElasticSearch, Kafka.</td>
-      </tr>
-    </tbody>
-  </table>
+## Kata Containers Community Onboarding
 
-<br>
+<div class="video-wrapper">
+  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/0eEisMm9ykg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<div class="h2_green">Airship Enables:</div>  
-<br>
 
-#### Platform Integration
+## An Intro to Kata Containers
 
-Airship combines the most popular virtualization platform, OpenStack, with the most popular container platform, Kubernetes.  Airship delivers a resilient Kubernetes and Helm infrastructure as the foundation in order to deploy and manage Airship components as well as several OpenStack services that integrate with Airship directly.  Airship then uses this same Kubernetes infrastructure to deliver any number of user-facing Helm applications, including a fully featured high-availability OpenStack cloud using OpenStack-Helm. Airship is a flexible application deployment and life cycle engine that functions with any Helm chart based application allows the system to easily deploy and manage entirely new applications with only minor declarative YAML changes.
+<div class="video-wrapper">
+  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/0eEisMm9ykg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-#### Security at Scale
 
-The fully integrated toolchain automatically applies industry best-practices for securing data centers. TLS-enabled service endpoints and encrypted storage of secrets make for a secure platform across your entire data center.  The production-grade Kubernetes cluster that Airship provides aims to provide best practice and resilient configurations out of the box.
+## Demos
 
-#### Scalable Operations
++ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
++ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
++ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
 
-By leveraging Kubernetes and Helm, critical services can automatically scale under load and can robustly survive hardware failure. The platform also bundles many infrastructure needs that are required whether leveraging OpenStack-Helm or other software sets--things such as log collection, search capabilities, monitoring, alerting, graphing, as well as network security policies.
+## Kata Containers in the News
 
-#### Reliable Upgrades
++ Kata Containers 1.5 release with support for Firecracker (AWS Open Source Blog | January 2019)
++ Kata Containers one year anniversary (Superuser | December 2018)
++ Kata Containers support open container standards (Superuser | March 2018)
++ The Kata Containers project launches version 1.0 of its lightweight VMs for containers (TechCrunch | May 2018)
++ Say hello to Kata Containers 1.0 (Superuser | May 2018)
++ Why Kata Containers is good for the industry and customers (Forbes | December 2017)
++ Kata Containers: secure, lightweight virtual machines for container environments (The New Stack | December 2017)
 
-Critical services can be upgraded with confidence, with gradual roll-outs (including the ability to roll-back), and guaranteed data and virtual machine integrity across container application upgrades. There's no need to shut down any services or live-migrate any virtual machines through the upgrade process.
+___
+
+## FAQ
+
+#### What's the advantage of Kata Containers?
+Kata Containers perform like containers, but provide the workload isolation and security advantages of VMs. It combines the benefits of containers and VMs.
+
+
+#### Who uses Kata Containers?
+Kata Containers is still in its formational stages, but the technical basis for the project--Clear Containers and runV--are used globally at enterprise scale by organizations like JD.com, China's largest ecommerce company (by revenue).
+
+
+#### Will this require a rebuild of my Docker containers? Does it work with Kubernetes?
+Kata Containers is OCI (Open Container Initiative) compliant, the same standard shared by Docker containers as well as the container runtime interface (CRI) for Kubernetes.
+
+
+#### What's the operating system? Do I get to pick that?
+Kata Containers supports Linux (host and guest) for now. On the host side, we have installation instructions for several popular distributions. We also have out-of-the-box support for Clear Linux, Fedora, and CentOS 7 rootfs images through the OSBuilder which can also be used to roll your own guest images.
+
+
+#### What's the license for Kata Containers?
+Kata Containers is open source and licensed under the Apache 2.0 license, which means it is free to use, free to distribute, and does not require modifications to be contributed back to the project. Read more about Apache 2.0.
+
+
+#### Where is the code?
+You can find the code at [github.com/kata-containers](github.com/kata-containers). You won't see much yet, as Clean Containers and runV cores are currently merging the code bases, but you can expect Kata Containers code to be ready around the end of Q2 2018. You can find links to the original repositories from Intel and Hyper.sh on the [katacontainers.io](katacontainers.io) homepage.
+
+
+#### Can I contribute to it?
+Yes! Kata Containers is open source, which means it relies on contributors like you! After the initial code base merger, all areas of Kata Containers will be open for contribution. Between now and the merger completion, you can contribute:
++ Unit tests for agent, shim and proxy
++ PR reviews for agent and shim
++ OSbuilder support for more distros
++ gRPC input (Do we cover it all?)
++ Features Requests: Open issues and PRs for any feature that you’d like to see in Kata Containers!
+
+
+#### How is Kata Containers governed?
+Kata Containers is driven by an Architecture Committee. The Architecture Committee, whose members are elected by contributors, oversees architectural decisions, including standardization, and resolves technical disagreements between project maintainers. Kata Containers is managed by the OpenStack Foundation, which provides event organization, code of conduct management, and other administrative support.
+
+
+#### Are there Kata meetups?
+We don't have any scheduled yet, but you can expect to see some on the calendar soon! Want to organize a Kata Containers Meetup? Email info at katacontainers.io to get involved.
+
+
+#### Is this an OpenStack project?
+Kata Containers is managed by the OpenStack Foundation, but is not a part of the OpenStack cloud infrastructure project. From a technical perspective, Kata Containers can be run on OpenStack, but can also be run on other cloud solutions like Azure and Google Cloud Platform. The OpenStack Foundation brings its 8 years of open source project and community management to this new project to provide community support, technical structure, and event management.
 
 <br>
 

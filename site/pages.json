@@ -1,20 +1,24 @@
 {
   "nav": [
     {
+      "text": "Learn",
+      "link": "/learn/"
+    },
+    {
       "text": "Software",
       "link": "/software/"
     },
     {
-      "text": "Users",
-      "link": "/users/"
+      "text": "Docs",
+      "link": "/docs/"
     },
     {
       "text": "Community",
       "link": "/community/"
     },
     {
-      "text": "Blog",
-      "link": "/blog/"
+      "text": "Supporters",
+      "link": "/supporters/"
     }
   ]
 }

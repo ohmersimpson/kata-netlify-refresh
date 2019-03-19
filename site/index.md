@@ -38,9 +38,11 @@ Since launching in December 2017, the community successfully merged the best par
 
 The Kata Containers community is stewarded by the OpenStack Foundation (OSF), which supports the development and adoption of open infrastructure globally. The code is hosted at GitHub under the Apache 2 license.
 
-<a href="/learn/" class="link is-primary"><strong>Learn More</strong></a>
+<home-about slot="homeabout" button-name="Learn More" link="/learn/">
+</home-about>
 
 </template>
+
 
 <home-announcement slot="announcement" button-name="Learn More" link="/learn/">
 

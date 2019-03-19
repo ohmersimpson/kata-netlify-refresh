@@ -6,6 +6,10 @@
   color: $primary-dark;
 }
 
+a {
+  color: $primary-dark;
+}
+
 h1,
 h2,
 h3,
@@ -23,7 +27,7 @@ h1 {
 h2 {
   margin-bottom: 14px;
   font-size: 25px;
-  color: $primary-dark;
+  color: $primary-blue;
 }
 
 .h2_green {
@@ -37,7 +41,7 @@ h2.features {
   margin-bottom: 30px;
   padding-top: 30px;
   font-size: 25px;
-  color: $primary-dark;
+  color: $primary-blue;
   text-align: center;
 }
 

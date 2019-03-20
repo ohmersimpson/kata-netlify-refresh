@@ -84,3 +84,130 @@
 .box-flex {
   display: flex;
 }
+
+.box1-title {
+  background-color: $primary-blue;
+  border-radius: 0px;
+  padding: 30px 30px 30px;
+  color: $white;
+
+  .h2 {
+    color: $white;
+  }
+
+}
+
+
+
+.container1 {
+
+  background-color: $primary-blue;
+
+	max-width: $container-max-width + $container-gutter * 2;
+	width: auto;
+	padding-right: $container-gutter;
+	padding-left: $container-gutter;
+
+	&-small {
+		max-width: $container-small-max-width + $container-gutter * 2;
+	}
+
+	&-medium {
+		max-width: $container-medium-max-width + $container-gutter * 2;
+	}
+
+	&-thin {
+		max-width: $container-thin-max-width + $container-gutter * 2;
+	}
+
+	&-thin-alt {
+		max-width: $container-thin-alt-max-width + $container-gutter * 2;
+  }
+  
+  h2.features {
+    margin-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 25px;
+    color: $white;
+    text-align: center;
+  }
+
+
+  .col1 {
+    border-right-width: 1px;
+    border-right-color: red;
+    border-right-style: solid;
+  }
+
+  .col3 {
+    border-left-width: 1px;
+    border-left-color: red;
+    border-left-style: solid;
+    
+  }
+
+}
+
+
+.container2 {
+
+  background-color: #f5f6f8;
+
+  text-align: center;
+
+	max-width: $container-max-width + $container-gutter * 2;
+	width: auto;
+	padding-right: $container-gutter;
+	padding-left: $container-gutter;
+  margin-bottom: 50px;
+
+	&-small {
+		max-width: $container-small-max-width + $container-gutter * 2;
+	}
+
+	&-medium {
+		max-width: $container-medium-max-width + $container-gutter * 2;
+	}
+
+	&-thin {
+		max-width: $container-thin-max-width + $container-gutter * 2;
+	}
+
+	&-thin-alt {
+		max-width: $container-thin-alt-max-width + $container-gutter * 2;
+  }
+  
+  h2.features {
+    margin-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 25px;
+    color: $white;
+    text-align: center;
+  }
+
+
+  .col1 {
+    border-right-width: 1px;
+    border-right-color: #d8e3ec;
+    border-right-style: solid;
+  }
+
+  .col3 {
+    border-left-width: 1px;
+    border-left-color:#d8e3ec;
+    border-left-style: solid;
+    
+  }
+
+  h4 {
+    color: $primary-blue;
+    font-weight: 800;
+  }
+
+  span {
+    display:block;
+  }
+
+}

@@ -27,8 +27,7 @@
       </tr>
       <tr>
         <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/compatibiity-badge.svg')" alt="Compatibility"/><h6>Compatibility</h6></td>
-        <td>Supports industry standards including OCI container format, Kubernetes CRI interface, as
-well as legacy virtualization technologies.</td>
+        <td>Supports industry standards including OCI container format, Kubernetes CRI interface, as well as legacy virtualization technologies.</td>
       </tr>
       <tr>
         <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/preformance-growth.svg')" alt="Performance"/><h6>Performance</h6></td>
@@ -64,6 +63,45 @@ well as legacy virtualization technologies.</td>
         </div><!-- /.columns -->
       </div><!-- /.section-inner -->
     </base-section>
+
+
+ <section class="section search-content">
+
+  <div class="search-content">
+    <h3 class="search-content-title">Are your running Kata Containers?</h3>
+    <!-- /.hero-title -->
+    <div class="search-content-subtitle">Stay up to date on Kata Containers and Open Infrastructure community news.
+    </div>
+    <div v-if="withEntry" class="hero-entry">
+      <slot name="entry"/>
+    </div>
+    <!-- /.hero-entry -->
+    <div v-if="withButton" class="hero-actions">
+      <slot name="buttons"/>
+    </div>
+    <!-- /.hero-actions -->
+  </div>
+
+  <b-field position="is-centered">
+    <input placeholder="Email Address" type="input" class="search-container-input" size="is-large">
+    </input>
+    <p class="control">
+      <!-- <button class="search-container-submit">Search</button> -->
+      <a :href="link" class="button is-primary no-border-radius">
+        <span>SUBMIT</span>
+        
+        <span class="ico">
+          <img :src="require('../theme/svg/arrow-left.svg')" alt="Call To Action">
+        </span>
+      </a>
+    </p>
+  </b-field>
+
+
+
+  </section>
+
+
   </main><!-- /.main -->
 </template>
 

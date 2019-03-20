@@ -25,7 +25,7 @@
 						'nav-content': true,
 						'is-active': isMobileNavOpen
 					}">
-					<ul class="nav-menu">
+					<ul class="nav-menu nobullet">
 						<li v-for="(navItem, i) in $site.themeConfig.nav">
 							<a @click.prevent="handleNavItemClick(navItem)" href="#">{{ navItem.text }}</a>
 						</li>

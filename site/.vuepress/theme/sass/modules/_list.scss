@@ -98,8 +98,10 @@
 
 ul {
   counter-reset: number;
-  list-style-type: disc;
+  // list-style-type: disc;
+  list-style-type: none;
   margin-left: 20px;
+  margin-bottom: 20px;
   .list-disc {
     list-style: disc;
     margin: 0 0 19px 19px;

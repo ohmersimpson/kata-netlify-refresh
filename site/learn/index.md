@@ -1,10 +1,36 @@
 ---
-description: An overview of the Kata Containers project
 title: Learn
+description: An overview of the Kata Containers project
+
 ---
 
 <p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs.</p>
 <p><a href="#">Project Overview</a>  |  <a href="#">Latest Software Release</a></p>
+
+<br>
+
+<div class="columns">
+  <div class="column">
+
+  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+    <img
+      src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
+      alt="title"
+    />
+  </a>
+
+  </div>
+  
+  <div class="column">
+  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+    <img
+      src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
+      alt="title"
+    />
+  </a>
+
+  </div>
+</div>
 
 <br>
 
@@ -30,13 +56,14 @@ title: Learn
 
 ## Kata Containers in the News
 
-+ Kata Containers 1.5 release with support for Firecracker (AWS Open Source Blog | January 2019)
-+ Kata Containers one year anniversary (Superuser | December 2018)
-+ Kata Containers support open container standards (Superuser | March 2018)
-+ The Kata Containers project launches version 1.0 of its lightweight VMs for containers (TechCrunch | May 2018)
-+ Say hello to Kata Containers 1.0 (Superuser | May 2018)
-+ Why Kata Containers is good for the industry and customers (Forbes | December 2017)
-+ Kata Containers: secure, lightweight virtual machines for container environments (The New Stack | December 2017)
+
++ [Kata Containers 1.5 release with support for Firecracker]() (AWS Open Source Blog | January 2019)
++ [Kata Containers one year anniversary]() (Superuser | December 2018)
++ [Kata Containers support open container standards]() (Superuser | March 2018)
++ [The Kata Containers project launches version 1.0 of its lightweight VMs for containers]() (TechCrunch | May 2018)
++ [Say hello to Kata Containers 1.0]() (Superuser | May 2018)
++ [Why Kata Containers is good for the industry and customers]() (Forbes | December 2017)
++ [Kata Containers: secure, lightweight virtual machines for container environments]() (The New Stack | December 2017)
 
 ___
 
@@ -75,6 +102,7 @@ Yes! Kata Containers is open source, which means it relies on contributors like 
 + Features Requests: Open issues and PRs for any feature that you’d like to see in Kata Containers!
 
 
+
 #### How is Kata Containers governed?
 Kata Containers is driven by an Architecture Committee. The Architecture Committee, whose members are elected by contributors, oversees architectural decisions, including standardization, and resolves technical disagreements between project maintainers. Kata Containers is managed by the OpenStack Foundation, which provides event organization, code of conduct management, and other administrative support.
 
@@ -86,8 +114,3 @@ We don't have any scheduled yet, but you can expect to see some on the calendar 
 #### Is this an OpenStack project?
 Kata Containers is managed by the OpenStack Foundation, but is not a part of the OpenStack cloud infrastructure project. From a technical perspective, Kata Containers can be run on OpenStack, but can also be run on other cloud solutions like Azure and Google Cloud Platform. The OpenStack Foundation brings its 8 years of open source project and community management to this new project to provide community support, technical structure, and event management.
 
-<br>
-
----
-
-Looking for more information? [**Read the FAQs**](/faq/).

@@ -106,13 +106,28 @@
   }
 
   a {
-    color: #313131;
+    // color: #313131;
+    color: $primary-dark;
+    // color: $primary-blue;
     text-decoration: underline;
 
     &:hover {
       text-decoration: none;
     }
+
+    .a-primary-blue {
+      // color: #313131;
+      // color: $primary-dark;
+      color: $primary-blue;
+      text-decoration: underline;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
   }
+
+  
 
   @media (max-width: 767px) {
     & {

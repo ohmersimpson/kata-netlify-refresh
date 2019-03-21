@@ -50,9 +50,9 @@ description: An overview of the Kata Containers project
 
 ## Demos
 
-+ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
-+ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
-+ Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker
++ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
++ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
++ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
 
 ## Kata Containers in the News
 
@@ -67,7 +67,8 @@ description: An overview of the Kata Containers project
 
 ___
 
-## FAQ
+<h2 id="faq" class="h2_primary_dark"><a href="#faq" aria-hidden="true" class="header-anchor">#</a> FAQ</h2>
+
 
 #### What's the advantage of Kata Containers?
 Kata Containers perform like containers, but provide the workload isolation and security advantages of VMs. It combines the benefits of containers and VMs.

@@ -31,9 +31,9 @@
 						</li>
 					</ul><!-- /.nav-menu -->
 					<div class="nav-end">
-						<!-- <b-field class="field-search">
+						<b-field class="field-search">
 							<b-input placeholder="Search" type="text" icon="search" icon-pack="fas" />
-						</b-field> -->
+						</b-field>
 					</div><!-- /.nav-end -->
 				</div><!-- /.nav-content -->
 			</div><!-- /.nav-inner -->

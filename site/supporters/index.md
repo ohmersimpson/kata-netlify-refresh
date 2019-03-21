@@ -3,6 +3,8 @@ title: Supporters
 description: Advancing Kata Containers and growing the community
 ---
 
+<section class="section">
+
 <div class="container1">
   <h2 class="features">Underwriter</h2>
 </div>
@@ -17,19 +19,12 @@ description: Advancing Kata Containers and growing the community
 </div>
 
 <div class="container container-center">
-
-<div class="columns">
-<div class="column">  <img src="../.vuepress/theme/images/logo-dell.svg" alt="title"  />
+  <div class="columns">
+    <div class="column">  <img src="../.vuepress/theme/images/logo-dell.svg" alt="title"  /></div>
+    <div class="column">  <img src="../.vuepress/theme/images/logo-redhat.svg" alt="title"  /></div>
+    <div class="column">  <img src="../.vuepress/theme/images/logo-arm.svg" alt="title"  /></div>
+  </div>
 </div>
-<div class="column">  <img src="../.vuepress/theme/images/logo-redhat.svg" alt="title"  />
-</div>
-<div class="column">  <img src="../.vuepress/theme/images/logo-arm.svg" alt="title"  />
-</div>
-</div>
-
-
-</div>
-
 
 
 <div class="container1">
@@ -37,22 +32,12 @@ description: Advancing Kata Containers and growing the community
 </div>
 
 <div class="container container-center">
-
-
-<div class="columns">
-<div class="column">  <img src="../.vuepress/theme/images/logo-google-cloud.svg" alt="title"  />
+  <div class="columns">
+    <div class="column">  <img src="../.vuepress/theme/images/logo-google-cloud.svg" alt="title"  /></div>
+    <div class="column">  <img src="../.vuepress/theme/images/logo-microsoft.svg" alt="title"  /></div>
+    <div class="column">  <img src="../.vuepress/theme/images/logo-vexxhost.svg" alt="title"  /></div>
+  </div>
 </div>
-<div class="column">  <img src="../.vuepress/theme/images/logo-microsoft.svg" alt="title"  />
-</div>
-<div class="column">  <img src="../.vuepress/theme/images/logo-vexxhost.svg" alt="title"  />
-</div>
-</div>
-
-
-
-</div>
-
-
 
 <div class="container1">
   <h2 class="features">Supporting Companies</h2>
@@ -78,7 +63,17 @@ description: Advancing Kata Containers and growing the community
   <img src="../.vuepress/theme/images/supporting-group-5.png" alt="title"  />
 </div>
 
-<div class="container1">
-  <h2 class="features">Interested in supporting Kata Containers?</h2>
-  <h2 class="features">Contact us at <a href="#">info@katacontainers.io</a> </h2>
-</div>
+</section> 
+
+
+<section class="section bottom-content">
+  <div class="search-content">
+    <h3 class="search-content-title">Interested in supporting Kata Containers?</h3>
+    <div class="search-content-subtitle">  
+      <span>Contact us at <a href="#">info@katacontainers.io</a></span>
+    </div>
+  </div>
+</section>  
+
+
+

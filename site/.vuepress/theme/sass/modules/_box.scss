@@ -23,7 +23,12 @@
 
   .box-title {
     margin-bottom: 25px;
-    color: $primary-blue;
+    color: $primary-dark;
+  }
+
+  .box-title-primary-dark {
+    margin-bottom: 25px;
+    color: $primary-dark;
   }
 
   .box-entry {
@@ -210,4 +215,13 @@
     display:block;
   }
 
+}
+
+.container3 {
+
+  background-color: $primary-blue;
+  position: fixed;
+  left: 0;
+  top: 450px;
+	width: 100%;
 }

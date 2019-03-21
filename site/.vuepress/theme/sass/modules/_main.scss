@@ -44,3 +44,12 @@
 	background-color: $primary-blue;
 	height: 15px;
 }
+
+.top-line2 {
+	background-color: red;
+	height: 8px;
+
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+}

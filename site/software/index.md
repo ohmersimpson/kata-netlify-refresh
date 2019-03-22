@@ -47,7 +47,7 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
      <div class="box-text"><div class="software-icon" style="align-content: middle"><figure class="image is-64x64">
       <img style="height: 56.13px" src="../.vuepress/theme/svg/document_primary-dark.svg">
       </figure></div><h3 class="is-software">View the Documentation</h3>
-      <a href="https://airship-treasuremap.readthedocs.io/en/latest/" class="a-primary-blue">
+      <a href="/docs/" class="a-primary-blue">
         Get Started &nbsp <img src="../.vuepress/theme/svg/arrow-left_primary-dark.svg">
       </a></div>
     </div>

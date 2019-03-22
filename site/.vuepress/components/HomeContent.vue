@@ -22,11 +22,11 @@
   <table class="table" style="width:100%; background-color: white;">
     <tbody>
       <tr>
-        <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/security-badge.svg')" alt="Security"/><h6>Security</h6></td>
+        <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/security-badge.svg')" alt="Security"/><h6 class="padding-top-5">Security</h6></td>
         <td>Runs in a dedicated kernel, providing isolation of network, I/O and memory and can utilize hardware-enforced isolation with virtualization VT extensions.</td>
       </tr>
       <tr>
-        <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/compatibiity-badge.svg')" alt="Compatibility"/><h6>Compatibility</h6></td>
+        <td class="is-selected is-primary-blue"><img class="feature-icons" :src="require('../theme/svg/compatibiity-badge.svg')" alt="Compatibility"/><h6  class="padding-top-10">Compatibility</h6></td>
         <td>Supports industry standards including OCI container format, Kubernetes CRI interface, as well as legacy virtualization technologies.</td>
       </tr>
       <tr>
@@ -49,8 +49,14 @@
             <list-numeric title="How to Get Involved" :items="$page.frontmatter.getInvolvedSteps">
               <template slot-scope="{ item }">
                 <h6>{{ item.title }}</h6>
-
+  
                 <p>{{ item.entry }}</p>
+
+                <p v-if="item.title === 'Slack or IRC'">  
+                  Slack: <a href="http://bit.ly/KataSlack">bit.ly/KataSlack</a>  
+                  IRC: <a href="#kata-dev">#kata-dev</a>  
+                </p>
+
 
                 <a :href="item.link.url">{{ item.link.title }}</a>
               </template>

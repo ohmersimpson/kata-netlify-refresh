@@ -111,6 +111,10 @@ img {
   height: auto;
 }
 
+.img-around-space {
+  margin: 12px;
+}
+
 img.feature-icons {
   vertical-align: middle;
   max-width: 30px;
@@ -251,4 +255,9 @@ hr {
   top: 80px;
   width: 200%;
   position: relative;
+  }
+
+
+  .section-padding-top-0 {
+    padding-top: 0px !important;
   }

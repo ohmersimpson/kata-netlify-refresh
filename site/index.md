@@ -18,7 +18,7 @@ getInvolvedSteps:
     entry: Chat with the project team and others using Kata Containers.
     link:
       url: https://wiki.openstack.org/wiki/Main_Page
-      title: 'Slack: bit.ly/KataSlack  IRC: #kata-dev'
+      title: 
   - title: Weekly Architecture Committee Meetings
     entry: Updates from the community on a weekly basis.
     link:

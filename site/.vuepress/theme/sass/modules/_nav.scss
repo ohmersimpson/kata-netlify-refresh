@@ -23,6 +23,7 @@
     }
     a {
       color: $primary-blue;
+      text-transform: capitalize;
     }
   }
 
@@ -155,4 +156,12 @@
       }
     }
   }
+}
+
+.padding-top-5 {
+  padding-top: 7px;
+}
+
+.padding-top-10 {
+  padding-top: 10px;
 }

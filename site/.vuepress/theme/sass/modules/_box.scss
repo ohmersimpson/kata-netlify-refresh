@@ -111,7 +111,11 @@
 	max-width: $container-max-width + $container-gutter * 2;
 	width: auto;
 	padding-right: $container-gutter;
-	padding-left: $container-gutter;
+  padding-left: $container-gutter;
+  
+  height: 59px;
+  margin-bottom: 60px;
+
 
 	&-small {
 		max-width: $container-small-max-width + $container-gutter * 2;
@@ -131,9 +135,9 @@
   
   h2.features {
     margin-bottom: 25px;
-    padding-top: 15px;
+    padding-top: 14px;
     padding-bottom: 15px;
-    font-size: 25px;
+    font-size: 26px;
     color: $white;
     text-align: center;
   }

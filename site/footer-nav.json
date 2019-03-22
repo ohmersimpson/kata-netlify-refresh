@@ -4,20 +4,24 @@
       "title": "About",
       "nav": [
         {
-          "text": "Learn",
+          "text": "“Learn” page – diagrams, links to videos, all other links",
           "link": "/learn/"
         },
         {
-          "text": "Software",
+          "text": "“Software” page – diagrams",
           "link": "/software/"
         },
         {
-          "text": "Community",
+          "text": "“Docs” – all links",
+          "link": "/docs/"
+        },
+        {
+          "text": "“Community” – all links",
           "link": "/community/"
         },
         {
-          "text": "Supporters",
-          "link": "/supporters/"
+          "text": "Blog content",
+          "link": "https://katacontainers.io/blog/"
         }
       ]
     },

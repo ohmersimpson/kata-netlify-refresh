@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: NandoJourneyman/kata-containers-site
+  repo: OpenStackweb/kata-netlify-refresh
   branch: master # Branch to update (optional; defaults to master)
+  base_url: https://auth.katacontainers.io
 publish_mode: editorial_workflow
 media_folder: "site/.vuepress/public/images"
 public_folder: "/images"

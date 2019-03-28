@@ -4,27 +4,8 @@ description: Advancing Kata Containers and growing the community
 ---
 
 <section class="section section-padding-top-0">
-
-<div class="container1">
-  <h2 class="features">Underwriter</h2>
-</div>
-
-<div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/logo-intel-lg.svg" alt="title"  />
-</div>
-
-
-<div class="container1">
-  <h2 class="features">Funder</h2>
-</div>
-
-<div class="container container-center">
-  <div class="columns">
-    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-dell.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-redhat.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-arm.svg" alt="title"  /></div>
-  </div>
-</div>
+<a href="mailto:info@katacontainers.io">Interested in supporting Kata Containers</a>?
+<br/><br/>
 
 
 <div class="container1">
@@ -40,28 +21,35 @@ description: Advancing Kata Containers and growing the community
 </div>
 
 <div class="container1">
-  <h2 class="features">Supporting Companies</h2>
+  <h2 class="features">Companies Supporting Kata Containers</h2>
 </div>
 
 <div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/supporting-group-1.png" alt="title"  />
+  <div class="columns">
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-intel-lg.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-dell.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-redhat.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-arm.svg" alt="title"  /></div>
+  </div>
 </div>
 
-<div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/supporting-group-2.png" alt="title"  />
-</div>
+Kata Containers is an open source community stewarded by the OpenStack Foundation (OSF). The Kata Containers community is working to build a secure container runtime with lightweight virtual machines that feel and perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense. 
 
-<div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/supporting-group-3.png" alt="title"  />
-</div>
+Above are companies that are actively involved in making the Kata Containers project successful.
 
-<div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/supporting-group-4.png" alt="title"  />
-</div>
+<a href="mailto:info@katacontainers.io" class="button is-primary-dark is-rounded">
+  <span>SUPPORT KATA CONTAINERS</span>
+  <span class="ico">
+    <img src="../.vuepress/theme/svg/arrow-left.svg" alt="Learn More" />
+  </span>
+</a><br/><br/>
 
-<div class="container container-center">
-  <img class="img-around-space" src="../.vuepress/theme/images/supporting-group-5.png" alt="title"  />
-</div>
+<ul>
+  <li>Support the Kata Containers community and enable it to grow and thrive</li>
+  <li>Recognition of your support with Supporter logo placement on katacontainers.io</li> 
+  <li>Notification of Kata Containers project news and updates</li> 
+  <li>Marketing support from OpenStack Foundation via press releases and providing quotes when your company promotes Kata Containers</li>
+</ul>
 
 </section> 
 

@@ -5,7 +5,7 @@ description: An overview of the Kata Containers project
 ---
 
 <p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs.</p>
-<p><a href="#">Project Overview</a>  |  <a href="#">Latest Software Release</a></p>
+<p><a href="https://github.com/kata-containers/">Project Overview</a>  |  <a href="https://github.com/kata-containers/runtime/releases">Latest Software Release</a></p>
 
 <br>
 
@@ -22,9 +22,9 @@ description: An overview of the Kata Containers project
   </div>
   
   <div class="column">
-  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+  <a href="/images/data.jpg">
     <img
-      src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
+      src="/images/data.jpg"
       alt="title"
     />
   </a>
@@ -37,33 +37,31 @@ description: An overview of the Kata Containers project
 ## Kata Containers Community Onboarding
 
 <div class="video-wrapper">
-  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/0eEisMm9ykg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/X4eG8f-sYtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 ## An Intro to Kata Containers
 
 <div class="video-wrapper">
-  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/0eEisMm9ykg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/4gmLXyMeYWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 ## Demos
 
-+ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
-+ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
-+ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker]()
++ [Kata Containers configured in CRIO + K8s, utilizing both QEMU & Firecracker](https://asciinema.org/a/219790)
 
 ## Kata Containers in the News
 
 
-+ [Kata Containers 1.5 release with support for Firecracker]() (AWS Open Source Blog | January 2019)
-+ [Kata Containers one year anniversary]() (Superuser | December 2018)
-+ [Kata Containers support open container standards]() (Superuser | March 2018)
-+ [The Kata Containers project launches version 1.0 of its lightweight VMs for containers]() (TechCrunch | May 2018)
-+ [Say hello to Kata Containers 1.0]() (Superuser | May 2018)
-+ [Why Kata Containers is good for the industry and customers]() (Forbes | December 2017)
-+ [Kata Containers: secure, lightweight virtual machines for container environments]() (The New Stack | December 2017)
++ [Kata Containers 1.5 release with support for Firecracker](https://aws.amazon.com/blogs/opensource/kata-containers-1-5-firecracker-support/) (AWS Open Source Blog | January 2019)
++ [Kata Containers one year anniversary](https://superuser.openstack.org/articles/kata-one-year-anniversary/) (Superuser | December 2018)
++ [Kata Containers support open container standards](https://superuser.openstack.org/articles/openstack-foundation-joins-open-container-initiative-kata/) (Superuser | March 2018)
++ [The Kata Containers project launches version 1.0 of its lightweight VMs for containers](https://techcrunch.com/2018/05/22/the-kata-containers-project-hits-1-0/) (TechCrunch | May 2018)
++ [Say hello to Kata Containers 1.0](https://superuser.openstack.org/articles/kata-containers-1-0/) (Superuser | May 2018)
++ [Why Kata Containers is good for the industry and customers](https://www.forbes.com/sites/janakirammsv/2017/12/11/why-kata-containers-is-good-for-the-industry-and-customers/#509177e7449e) (Forbes | December 2017)
++ [Kata Containers: secure, lightweight virtual machines for container environments](https://thenewstack.io/kata-containers-secure-lightweight-virtual-machines-container-environments/) (The New Stack | December 2017)
 
 ___
 
@@ -91,7 +89,7 @@ Kata Containers is open source and licensed under the Apache 2.0 license, which 
 
 
 #### Where is the code?
-You can find the code at [github.com/kata-containers](github.com/kata-containers). You won't see much yet, as Clean Containers and runV cores are currently merging the code bases, but you can expect Kata Containers code to be ready around the end of Q2 2018. You can find links to the original repositories from Intel and Hyper.sh on the [katacontainers.io](katacontainers.io) homepage.
+You can find the code at [github.com/kata-containers](https://github.com/kata-containers). You won't see much yet, as Clean Containers and runV cores are currently merging the code bases, but you can expect Kata Containers code to be ready around the end of Q2 2018. You can find links to the original repositories from Intel and Hyper.sh on the [katacontainers.io](https://katacontainers.io) homepage.
 
 
 #### Can I contribute to it?

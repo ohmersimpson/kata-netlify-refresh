@@ -30,7 +30,7 @@
 							<a @click.prevent="handleNavItemClick(navItem)" href="#">{{ navItem.text }}</a>
 						</li>
 					</ul><!-- /.nav-menu -->
-					<div class="nav-end">
+					<!--<div class="nav-end">
 						<b-field class="field-search">
 							<b-input placeholder="Search" type="text" icon="search" icon-pack="fas" />
 						</b-field>

@@ -91,7 +91,7 @@ Our community follows the OpenStack Foundation [Code of Conduct](https://www.ope
         <div class="media">
         <div class="media-left">
             <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/oval_3.png" alt="Placeholder image">
+            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
             </figure>
         </div>
         <div class="media-content">
@@ -113,7 +113,7 @@ Our community follows the OpenStack Foundation [Code of Conduct](https://www.ope
         <div class="media">
         <div class="media-left">
             <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/oval_3.png" alt="Placeholder image">
+            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
             </figure>
         </div>
         <div class="media-content">
@@ -136,7 +136,7 @@ Our community follows the OpenStack Foundation [Code of Conduct](https://www.ope
         <div class="media">
         <div class="media-left">
             <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/oval_3.png" alt="Placeholder image">
+            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
             </figure>
         </div>
         <div class="media-content">

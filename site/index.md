@@ -17,12 +17,12 @@ getInvolvedSteps:
   - title: Slack or IRC
     entry: Chat with the project team and others using Kata Containers.
     link:
-      url: https://wiki.openstack.org/wiki/Main_Page
+      url: http://bit.ly/KataSlack
       title: 
   - title: Weekly Architecture Committee Meetings
     entry: Updates from the community on a weekly basis.
     link:
-      url: https://wiki.openstack.org/wiki/Main_Page
+      url: https://etherpad.openstack.org/p/katacontainers-2019-architecture-committee-mtgs
       title: View the Etherpad
 ---
 

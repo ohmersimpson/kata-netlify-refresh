@@ -22,9 +22,9 @@ description: An overview of the Kata Containers project
   </div>
   
   <div class="column">
-  <a href="/images/data.jpg">
+  <a href="../.vuepress/theme/images/kata-explained1@2x.png">
     <img
-      src="/images/data.jpg"
+      src="../.vuepress/theme/images/kata-explained1@2x.png"
       alt="title"
     />
   </a>

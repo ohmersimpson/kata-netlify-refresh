@@ -7,7 +7,7 @@ description: Development activities in Kata Containers
 Kata Containers is Apache 2 licensed software consisting of six components: Agent, Runtime, Proxy, Shim, Kernel and packaging of QEMU 2.11. It is designed to be architecture agnostic, run on multiple hypervisors and plug seamlessly into the containers ecosystem.
 <br>
 
-<a href="#" class="button is-primary-dark is-rounded">
+<a href="https://github.com/kata-containers" class="button is-primary-dark is-rounded">
   <span>EXPLORE ON GITHUB</span>
 
   <span class="ico">
@@ -21,9 +21,9 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
 
 ## Architecture
 
-  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+  <a href="../.vuepress/theme/images/kata-explained1@2x.png">
     <img
-      src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
+      src="../.vuepress/theme/images/kata-explained1@2x.png"
       alt="title"
     />
   </a>
@@ -47,7 +47,7 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
      <div class="box-text"><div class="software-icon" style="align-content: middle"><figure class="image is-64x64">
       <img style="height: 56.13px" src="../.vuepress/theme/svg/document_primary-dark.svg">
       </figure></div><h3 class="is-software">View the Documentation</h3>
-      <a href="/docs/" class="a-primary-blue">
+      <a href="https://github.com/kata-containers/documentation" class="a-primary-blue">
         Get Started &nbsp <img src="../.vuepress/theme/svg/arrow-left_primary-dark.svg">
       </a></div>
     </div>
@@ -114,7 +114,7 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
 
 ## Requirements
 
-Kata requires nested virtualization or bare metal. The Kata Containers runtime has a built-in command (kata-check) to determine if your host system is capable of running a Kata Container. [Learn how to use kata-check]().
+Kata requires nested virtualization or bare metal. The Kata Containers runtime has a built-in command (kata-check) to determine if your host system is capable of running a Kata Container. [Learn how to use kata-check](http://bit.ly/katacheck).
 
 
 
@@ -148,10 +148,10 @@ Kata requires nested virtualization or bare metal. The Kata Containers runtime h
 
   <div class="columns">
   <div class="column">
-    <a href="#" >Amazon Web Services</a><br/>
-    <a href="#" >Microsoft Azure</a><br/>
-    <a href="#" >Google Compute Engine</a><br/>
-    <a href="#" >Vexxhost OpenStack Cloud</a><br/><br/><br/>
+    <a href="https://aws.amazon.com/" target="_blank" >Amazon Web Services</a><br/>
+    <a href="https://azure.microsoft.com/" target="_blank" >Microsoft Azure</a><br/>
+    <a href="https://cloud.google.com/compute/" target="_blank" >Google Compute Engine</a><br/>
+    <a href="https://vexxhost.com/" target="_blank" >Vexxhost OpenStack Cloud</a><br/><br/><br/>
   </div>
   </div>
 

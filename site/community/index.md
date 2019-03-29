@@ -7,20 +7,20 @@ Kata Containers is open source, which means it relies on contributors like you! 
 
 ## How to Contribute
 
-Installation Guides: [View the docs]()  
-GitHub Repo: [https://github.com/kata-containers]()  
-Overview Deck: [View the presentation]()  
-Overview One Pager: [View the PDF]()  
+Installation Guides: [View the docs](https://github.com/kata-containers/documentation/tree/master/install)  
+GitHub Repo: [https://github.com/kata-containers](https://github.com/kata-containers)  
+Overview Deck: [View the presentation](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata-containers-on-boarding-deck-for-website01022018.pdf)  
+Overview One Pager: [View the PDF](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata_containers_overview.pdf)  
 
 ---
 
 ## Communications
 
-Slack: [bit.ly/KataSlack]()  
-Freenode IRC: [#kata-dev]() and [#kata-general]()  
-Mailing Lists: [http://lists.katacontainers.io/cgi-bin/mailman/listinfo]()  
-E-mail: [info@katacontainers.io]()  
-Twitter: [@katacontainers]()  
+Slack: [bit.ly/KataSlack](https://katacontainers.slack.com/)  
+Freenode IRC: [#kata-dev](http://webchat.freenode.net/?channels=kata-dev) and [#kata-general](http://webchat.freenode.net/?channels=kata-general)  
+Mailing Lists: [http://lists.katacontainers.io/cgi-bin/mailman/listinfo](http://lists.katacontainers.io/cgi-bin/mailman/listinfo)  
+E-mail: [info@katacontainers.io](mailto:info@katacontainers.io)  
+Twitter: [@katacontainers](https://twitter.com/katacontainers)  
 
 
 ---
@@ -28,18 +28,18 @@ Twitter: [@katacontainers]()
 ## Meetings
 
 Architecture Committee: The Architecture Committee works on the technical direction of the project.  
-Meetings are on Tuesdays at 8:00am PT. Agendas & call info can be found [here]().  
-Marketing SIG: The Marketing SIG works on developing community content as well as advocacy and outreach. You can get involved with the Marketing SIG on the Kata [mailing list]() or by visiting #kata-marketing in the Kata Slack.
+Meetings are on Tuesdays at 8:00am PT. Agendas & call info can be found [here](https://etherpad.openstack.org/p/katacontainers-2019-architecture-committee-mtgs).  
+Marketing SIG: The Marketing SIG works on developing community content as well as advocacy and outreach. You can get involved with the Marketing SIG on the Kata [mailing list](http://lists.katacontainers.io/cgi-bin/mailman/listinfo) or by visiting #kata-marketing in the [Kata Slack](https://katacontainers.slack.com/).
 
 ---
 
 ## Collaborate
 
-Meet the team and collaborate with us at the [Open Infrastructure Summit]() and the [PTG]().
+Meet the team and collaborate with us at the [Open Infrastructure Summit](https://www.openstack.org/summit/denver-2019/) and the [PTG](https://openstack.org/ptg).
 
 ---
 
-## Gobernance
+## Governance
 
 Kata Containers is governed according to the "four opens":
 
@@ -50,20 +50,20 @@ Kata Containers is governed according to the "four opens":
 
 Technical decisions will be made by technical contributors and a representative technical leadership committee. The community is committed to diversity, openness, encouraging new contributors and leaders to rise up.
 
-Learn more about [Kata Containers governance, election process and the current Architecture Committee](). 
+Learn more about [Kata Containers governance, election process and the current Architecture Committee](https://github.com/kata-containers/community). 
 
 
 ---
 
 ## Code of Conduct
 
-Our community follows the OpenStack Foundation [Code of Conduct]().
+Our community follows the OpenStack Foundation [Code of Conduct](https://www.openstack.org/legal/community-code-of-conduct/).
 
 ---
 
 ## SWAG
 
-"Show off your Kata pride with select swag items. [Get yours here]()
+"Show off your Kata pride with select swag items. [Get yours here](https://shop-openstack.myshopify.com/collections/kata)
 
 <div class="columns swag">
 <div class="column swag">

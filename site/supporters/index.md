@@ -27,9 +27,26 @@ description: Advancing Kata Containers and growing the community
 <div class="container container-center">
   <div class="columns">
     <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-intel-lg.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-huawei.svg" alt="title"  /></div>
     <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-dell.svg" alt="title"  /></div>
     <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-redhat.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-arm.svg" alt="title"  /></div>
+  </div>
+  <div class="columns">
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-tencent.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-99cloud.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-china.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-citynetwork.svg" alt="title"  /></div>
+  </div>
+  <div class="columns">
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-united.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-zte.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-mirantis.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-suse.svg" alt="title"  /></div>
+  </div>
+  <div class="columns">
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-netapp.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-easy.jpg" alt="title"  /></div>
+    <div class="column">  <img class="img-around-space" src="../.vuepress/theme/images/logo-fiberhome.svg" alt="title"  /></div>
   </div>
 </div>
 

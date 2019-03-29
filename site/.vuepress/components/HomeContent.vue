@@ -74,7 +74,7 @@
  <section class="section search-content">
 
   <div class="search-content">
-    <h3 class="search-content-title">Are your running Kata Containers?</h3>
+    <h3 class="search-content-title">Are your running Kata Containers? v</h3>
     <!-- /.hero-title -->
     <div class="search-content-subtitle">Stay up to date on Kata Containers and Open Infrastructure community news.
     </div>
@@ -89,18 +89,31 @@
   </div>
 
   <b-field position="is-centered">
-    <input placeholder="Email Address" type="input" class="search-container-input" size="is-large">
-    </input>
-    <p class="control">
-      <!-- <button class="search-container-submit">Search</button> -->
-      <a :href="link" class="button is-primary no-border-radius">
-        <span>SUBMIT</span>
-        
-        <span class="ico">
-          <img :src="require('../theme/svg/arrow-left.svg')" alt="Call To Action">
-        </span>
-      </a>
-    </p>
+
+
+    <form method="post" id="e2ma_signup" onsubmit="return signupFormObj.checkForm(this)" action="https://app.e2ma.net/app2/audience/signup/1862950/1771360/">
+
+      <input id="id_prev_member_email" name="prev_member_email" type="hidden">
+      <input id="id_source" name="source" type="hidden">
+      <input id="id_group_4036448" name="group_4036448" type="hidden" value="4036448">
+      <input type="hidden" name="private_set" value="{num_private}">
+
+      <input placeholder="Email Address" id="id_email" name="email" type="email" required class="search-container-input" size="is-large">
+      </input>
+
+        <!-- <button class="search-container-submit">Search</button> -->
+
+        <a href="#" class="button is-primary no-border-search-submit" onclick="document.getElementById('e2ma_signup').submit();">
+          <span>SUBMIT</span>
+          
+          <span class="ico">
+            <img :src="require('../theme/svg/arrow-left.svg')" alt="Call To Action">
+          </span>
+        </a>
+
+
+    </form>
+
   </b-field>
 
 

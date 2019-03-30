@@ -37,7 +37,12 @@
 	  width: 300px;
 	  box-shadow: none;
 	  font-size: 20px;
-	  line-height: 2.15;
+	  line-height: 2.13;
+	}
+
+	.button.no-border-search-submit {
+	  top:17px !important;
+	  left:0px !important;
 	}
   
 	@media (max-width: 767px) {

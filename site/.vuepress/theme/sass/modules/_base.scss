@@ -115,6 +115,25 @@ img {
   margin: 12px;
 }
 
+.img-sponsor-l3 {
+  margin: 12px;
+  width: 250px;
+  margin-bottom: 46px;
+}
+
+.img-sponsor-l3-last {
+  margin: 12px;
+  width: 250px;
+  margin-bottom: 46px;
+  margin-left: 35px;
+}
+
+.img-sponsor-l4 {
+  margin: 12px;
+  width: 225px;
+  margin-bottom: 46px;
+}
+
 img.feature-icons {
   vertical-align: middle;
   max-width: 30px;
@@ -234,6 +253,9 @@ hr {
   border-style: solid;
 }
 
+.columns-sponsors {
+  display: inline-flex;
+}
 .card {
   box-shadow: none;
 }
@@ -258,7 +280,7 @@ hr {
 	font-size: 50px;
 	font-weight: 300;
   color: $white;
-  left: -421px;
+  left: -450px;
   top: 80px;
   width: 200%;
   position: relative;

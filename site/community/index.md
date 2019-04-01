@@ -3,6 +3,77 @@ title: Community
 description: Join to contribute code, documentation, and use cases
 ---
 
+## Blog
+
+<div class="columns ">
+    <div class="column ">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                        <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Eric Ernst</p>
+                        <p class="subtitle is-6">Jan 23 * 4 min read</p>
+                    </div>
+                </div>
+                    <div class="content">
+                    <h3>Kata Containers 1.5 release</h3>
+                    This is an exciting release for Kata, which includes support for the Firecracker* hypervisor, the s390x* architecture as well as a new method for integrated with the containerd* project. New hypervisors [...] <a href="#">Read More</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="column ">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                        <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Eric Ernst</p>
+                        <p class="subtitle is-6">Jan 23 * 4 min read</p>
+                    </div>
+                </div>
+                    <div class="content">
+                    <h3>Kata Containers 1.5 release</h3>
+                    This is an exciting release for Kata, which includes support for the Firecracker* hypervisor, the s390x* architecture as well as a new method for integrated with the containerd* project. New hypervisors [...] <a href="#">Read More</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="column ">
+        <div class="card">
+            <div class="card-content">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-48x48">
+                        <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p class="title is-4">Eric Ernst</p>
+                        <p class="subtitle is-6">Jan 23 * 4 min read</p>
+                    </div>
+                </div>
+                    <div class="content">
+                    <h3>Kata Containers 1.5 release</h3>
+                    This is an exciting release for Kata, which includes support for the Firecracker* hypervisor, the s390x* architecture as well as a new method for integrated with the containerd* project. New hypervisors [...] <a href="#">Read More</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+---
+
 Kata Containers is open source, which means it relies on contributors like you! All areas of Kata Containers are open for contribution. Here is some useful information.
 
 ## How to Contribute
@@ -66,91 +137,11 @@ Our community follows the OpenStack Foundation [Code of Conduct](https://www.ope
 "Show off your Kata pride with select swag items. [Get yours here](https://shop-openstack.myshopify.com/collections/kata)
 
 <div class="columns swag">
-<div class="column swag">
-
-<img src="../.vuepress/theme/images/kata_hoodie_frnt_720x.png" alt="title" class="img-swag" />
-
-</div>
-
-<div class="column swag">
-
-<img src="../.vuepress/theme/images/Sock1_720x.png" alt="title" class="img-swag" />
-
-</div>
-
-</div>
-
----
-
-## Blog
-
-<div class="columns ">
-<div class="column ">
-    <div class="card">
-    <div class="card-content">
-        <div class="media">
-        <div class="media-left">
-            <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
-            </figure>
-        </div>
-        <div class="media-content">
-            <p class="title is-4">Eric Ernst</p>
-            <p class="subtitle is-6">Jan 23 * 4 min read</p>
-        </div>
-        </div>
-        <div class="content">
-        <h3>Kata Containers 1.5 release</h3>
-        This is an exciting release for Kata, which includes support for the Firecracker* hypervisor, the s390x* architecture as well as a new method for integrated with the containerd* project. New hypervisors [...] <a href="#">Read More</a>
-        </div>
+    <div class="column swag">
+        <img src="../.vuepress/theme/images/kata_hoodie_frnt_720x.png" alt="title" class="img-swag" />
     </div>
+    <div class="column swag">
+        <img src="../.vuepress/theme/images/Sock1_720x.png" alt="title" class="img-swag" />
     </div>
 </div>
 
-<div class="column ">
-    <div class="card">
-    <div class="card-content">
-        <div class="media">
-        <div class="media-left">
-            <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
-            </figure>
-        </div>
-        <div class="media-content">
-            <p class="title is-4">Anne Bertucio</p>
-            <p class="subtitle is-6">Sep 20, 2018 * 3 min read</p>
-        </div>
-        </div>
-        <div class="content">
-        <h3>Elections are Milestones (AKA What’s involved in an open source project election)</h3>
-        The Kata Containers project just had its first Architecture Committee election. At the inception of the project, five people were appointed to get the project off the ground and guide it to its 1.0 release. These [...] <a href="#">Read More</a>
-        </div>
-    </div>
-    </div>
-</div>
-
-
-<div class="column ">
-    <div class="card">
-    <div class="card-content">
-        <div class="media">
-        <div class="media-left">
-            <figure class="image is-48x48">
-            <img src="../.vuepress/theme/images/Oval_3.png" alt="Placeholder image">
-            </figure>
-        </div>
-        <div class="media-content">
-            <p class="title is-4">Eric Ernst</p>
-            <p class="subtitle is-6">Jul 24, 2018 * 4 min read</p>
-        </div>
-        </div>
-        <div class="content">
-        <h3>Kata-deploy: The quick way to install Kata on your Kubernets*Cluster</h3>
-        As I have learned more about Kubernetes, I came to the realization that anything can be done with just one more daemonset. Similarly, in cloud native, who needs packages when you can just install The[...] <a href="#">Read More</a>
-        </div>
-    </div>
-    </div>
-</div>
-
-
-</div>

@@ -12,8 +12,8 @@ getInvolvedSteps:
   - title: Join the mailing list
     entry: Receive email announcements and interaact with the community.
     link:
-      url: mailto:mailman@lists.katacontainers.io
-      title: mailman@lists.katacontainers.io
+      url: http://lists.katacontainers.io 
+      title: http://lists.katacontainers.io 
   - title: Slack or IRC
     entry: Chat with the project team and others using Kata Containers.
     link:

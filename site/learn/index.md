@@ -5,9 +5,10 @@ description: An overview of the Kata Containers project
 ---
 
 <p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs.</p>
-<p><a href="https://github.com/kata-containers/">Project Overview</a>  |  <a href="https://github.com/kata-containers/runtime/releases">Latest Software Release</a></p>
-
-<br>
+<div class="columns">
+  <div class="column"><a href="https://github.com/kata-containers/" class="button is-primary is-rounded">Project Overview</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kata-containers/runtime/releases" class="button is-primary is-rounded">Latest Software Release</a><br/><br/>  
+  </div>
+</div>
 
 <div class="columns">
   <div class="column">
@@ -34,10 +35,10 @@ description: An overview of the Kata Containers project
 
 <br>
 
-## Kata Containers Community Onboarding
+## Kata Containers Project Update
 
 <div class="video-wrapper">
-  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/X4eG8f-sYtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="835 px" height="469.687 px" src="https://www.youtube.com/embed/pIODZrnqMDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

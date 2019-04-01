@@ -18,6 +18,11 @@ description: Advancing Kata Containers and growing the community
     <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-microsoft.svg" alt="title"  /></div>
     <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-vexxhost.svg" alt="title"  /></div>
   </div>
+  <div class="columns">
+    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-amazon.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-packetcloud.svg" alt="title"  /></div>
+    <div class="column">  </div>
+  </div>
 </div>
 
 <div class="container1">
@@ -47,6 +52,7 @@ description: Advancing Kata Containers and growing the community
     <div class="column columns-sponsors">  <img class="img-sponsor-l3-last" src="../.vuepress/theme/images/logo-netapp.svg" alt="title"  /></div>
     <div class="column ">  <img class="img-sponsor-l3-last" src="../.vuepress/theme/images/logo-easy.jpg" alt="title"  /></div>
     <div class="column  columns-sponsors">  <img class="img-sponsor-l3-last" src="../.vuepress/theme/images/logo-fiberhome.svg" alt="title"  /></div>
+    <div class="column  columns-sponsors">  <img class="img-sponsor-l3-last" src="../.vuepress/theme/images/logo-ubuntu.svg" alt="title"  /></div>
   </div>
 </div>
 

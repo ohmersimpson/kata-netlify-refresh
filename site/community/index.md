@@ -3,6 +3,13 @@ title: Community
 description: Join to contribute code, documentation, and use cases
 ---
 
+## Blog
+
+<last-posts/>
+
+
+---
+
 Kata Containers is open source, which means it relies on contributors like you! All areas of Kata Containers are open for contribution. Here is some useful information.
 
 ## How to Contribute
@@ -66,22 +73,11 @@ Our community follows the OpenStack Foundation [Code of Conduct](https://www.ope
 "Show off your Kata pride with select swag items. [Get yours here](https://shop-openstack.myshopify.com/collections/kata)
 
 <div class="columns swag">
-<div class="column swag">
-
-<img src="../.vuepress/theme/images/kata_hoodie_frnt_720x.png" alt="title" class="img-swag" />
-
+    <div class="column swag">
+        <img src="../.vuepress/theme/images/kata_hoodie_frnt_720x.png" alt="title" class="img-swag" />
+    </div>
+    <div class="column swag">
+        <img src="../.vuepress/theme/images/Sock1_720x.png" alt="title" class="img-swag" />
+    </div>
 </div>
 
-<div class="column swag">
-
-<img src="../.vuepress/theme/images/Sock1_720x.png" alt="title" class="img-swag" />
-
-</div>
-
-</div>
-
----
-
-## Blog
-
-<last-posts/>

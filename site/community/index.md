@@ -42,7 +42,7 @@ Marketing SIG: The Marketing SIG works on developing community content as well a
 
 ## Collaborate
 
-Meet the team and collaborate with us at the [Open Infrastructure Summit](https://www.openstack.org/summit/denver-2019/) and the [PTG](https://openstack.org/ptg).
+Meet the team and collaborate with us at the [Open Infrastructure Summit](https://www.openstack.org/summit/) and the [PTG](https://openstack.org/ptg).
 
 ---
 
@@ -65,19 +65,4 @@ Learn more about [Kata Containers governance, election process and the current A
 ## Code of Conduct
 
 Our community follows the OpenStack Foundation [Code of Conduct](https://www.openstack.org/legal/community-code-of-conduct/).
-
----
-
-## SWAG
-
-"Show off your Kata pride with select swag items. [Get yours here](https://shop-openstack.myshopify.com/collections/kata)
-
-<div class="columns swag">
-    <div class="column swag">
-        <img src="../.vuepress/theme/images/kata_hoodie_frnt_720x.png" alt="title" class="img-swag" />
-    </div>
-    <div class="column swag">
-        <img src="../.vuepress/theme/images/Sock1_720x.png" alt="title" class="img-swag" />
-    </div>
-</div>
 

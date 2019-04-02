@@ -9,8 +9,8 @@
                 <div class="column" v-for="section in $site.themeConfig.footer.sections">
                   <h6 class="footer-title">{{ section.title }}</h6>
                   <!-- /.footer-title -->
-                  <ul class="footer-list">
-                    <li v-for="item in section.nav">
+                  <ul class="footer-list nobullet">
+                    <li v-for="item in section.nav" class="item-no-bullet">
                       <a :href="item.link">{{ item.text }}</a>
                     </li>
                   </ul>

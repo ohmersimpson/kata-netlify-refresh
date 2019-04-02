@@ -13,7 +13,7 @@ description: An overview of the Kata Containers project
 <div class="columns">
   <div class="column">
 
-  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg" target="_blank">
     <img
       src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
       alt="title"
@@ -23,7 +23,7 @@ description: An overview of the Kata Containers project
   </div>
   
   <div class="column">
-  <a href="../.vuepress/theme/images/kata-explained1@2x.png">
+  <a href="../.vuepress/theme/images/kata-explained1@2x.png" target="_blank">
     <img
       src="../.vuepress/theme/images/kata-explained1@2x.png"
       alt="title"

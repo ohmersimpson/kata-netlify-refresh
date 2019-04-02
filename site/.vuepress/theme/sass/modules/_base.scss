@@ -226,6 +226,10 @@ ul li::before {
   margin-left: -1em; /* Also needed for space (tweak if needed) */
 }
 
+.item-no-bullet::before {
+  content: "";  
+}
+
 hr {
   background-color: #d5d5d5;
   border: none;

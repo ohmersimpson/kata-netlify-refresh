@@ -127,6 +127,14 @@
 
   }
 
+  .a-no-underline {
+    color: $primary-dark;
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   .a-primary-blue {
     color: $primary-blue;
     text-decoration: underline;

@@ -20,7 +20,7 @@
         </div>
         </div>
         <div class="content">
-        <h3>{{ item.title }}</h3>
+        <h3> <a :href="item.link" class="a-no-underline" >{{ item.title }}</a> </h3>
         {{ item.description | Subtitle }} [...] <a :href="item.link">Read More</a>
         </div>
     </div>

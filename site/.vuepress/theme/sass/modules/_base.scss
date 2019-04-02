@@ -290,3 +290,11 @@ hr {
   .section-padding-top-0 {
     padding-top: 0px !important;
   }
+
+  .a-no-underline {
+    color: $primary-dark;
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+    }
+  }

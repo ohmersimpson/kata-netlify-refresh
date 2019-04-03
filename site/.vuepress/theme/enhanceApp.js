@@ -4,6 +4,7 @@ import Field from "buefy/dist/components/field";
 import Input from "buefy/dist/components/input";
 import Checkbox from "buefy/dist/components/checkbox";
 import Tag from "buefy/dist/components/tag";
+import Modal from "buefy/dist/components/modal";
 
 export default ({
   Vue, // the version of Vue being used in the VuePress app
@@ -16,4 +17,5 @@ export default ({
   Vue.use(Input);
   Vue.use(Checkbox);
   Vue.use(Tag);
+  Vue.use(Modal);
 };

@@ -10,26 +10,14 @@ description: An overview of the Kata Containers project
   </div>
 </div>
 
+
 <div class="columns">
   <div class="column">
-
-  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg" target="_blank">
-    <img
-      src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
-      alt="title"
-    />
-  </a>
-
+   <image-modal imgurl="../images/Airship_Diagram_SimplifiedArchitecture.jpg" />
   </div>
   
   <div class="column">
-  <a href="/assets/img/kata-explained1@2x.a43936f5.png" target="_blank">
-    <img
-      src="../.vuepress/theme/images/kata-explained1@2x.png"
-      alt="title"
-    />
-  </a>
-
+   <image-modal imgurl="../images/kata-explained1@2x.png" />
   </div>
 </div>
 

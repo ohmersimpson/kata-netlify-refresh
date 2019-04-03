@@ -23,13 +23,13 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
 
 ## Architecture
 
-  <a href="/assets/img/kata-explained1@2x.a43936f5.png">
+  <!-- <a href="/assets/img/kata-explained1@2x.a43936f5.png">
     <img
       src="../.vuepress/theme/images/kata-explained1@2x.png"
       alt="title"
     />
-  </a>
-
+  </a> -->
+  <image-modal imgurl="../images/kata-explained1@2x.png" />
 
 <br>
 
@@ -63,12 +63,14 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
 
 ## Kata Containers Integration with Kubernetes:
 
-  <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+  <!-- <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
     <img
       src="/images/Airship_Diagram_SimplifiedArchitecture.jpg"
       alt="title"
     />
-  </a>
+  </a> -->
+  <image-modal imgurl="../images/Airship_Diagram_SimplifiedArchitecture.jpg" />
+
 
 
 <div class="container1">

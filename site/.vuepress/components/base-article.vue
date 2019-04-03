@@ -4,12 +4,14 @@
 			<article class="article level">
 
         <figure v-if="image" class="article-image level-item level-right">
-        <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
+        <!-- <a href="/images/Airship_Diagram_SimplifiedArchitecture.jpg">
 					<img
 						:src="image"
 						:alt="title"
 					/>
-          </a>
+          </a> -->
+             <image-modal imgurl="../images/kata-explained1@2x.png" />
+
 				</figure><!-- /.article-image -->
 				<div class="article-content">
 					<!-- /.article-title -->

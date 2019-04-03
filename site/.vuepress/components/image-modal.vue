@@ -3,10 +3,10 @@
 		<a href="#" @click.prevent="isImageModalActive = true" >
 			<img :src="imgurl" :alt="imgurl" />
 		</a>
-        <b-modal :active.sync="isImageModalActive" :width="1080">
+        <b-modal :active.sync="isImageModalActive" >
             <p class="image is-4by3">
 				<a href="#">
-					<img :src="imgurl">
+					<img :src="imgurl" class="image-modal">
 				</a>
             </p>
         </b-modal>		

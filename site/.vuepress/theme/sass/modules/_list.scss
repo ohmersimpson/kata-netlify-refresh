@@ -137,3 +137,16 @@ ul {
     font-weight: 500;
   }
 }
+
+.p-simple-item-bullet {
+  font-size: 14px;
+  display: inline-block; 
+
+  &:before {
+    content: "\2022";
+    color: $primary-dark;
+    width: 1em; 
+    margin-right: 0.5em;
+  }
+
+}

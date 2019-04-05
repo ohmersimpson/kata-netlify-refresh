@@ -46,21 +46,33 @@
       <div class="section-inner">
         <div class="columns">
           <div class="column">
-            <list-numeric title="How to Get Involved" :items="$page.frontmatter.getInvolvedSteps">
-              <template slot-scope="{ item }">
-                <h6>{{ item.title }}</h6>
-  
-                <p>{{ item.entry }}</p>
+            
+            <div class="list-numeric">
+              <h4 class="list-numeric-title">How to Get Involved.</h4>
+              <ul>
+                <li>
+                  <h6>Stay in the loop</h6>
+                  <p class="p-simple-item-bullet">Join the mailing list: <a href="http://lists.katacontainers.io">http://lists.katacontainers.io</a> </p>
+                  <p class="p-simple-item-bullet">Slack: <a href="http://bit.ly/KataSlack">bit.ly/KataSlack</a>  
+                    IRC: <a href="#kata-dev">#kata-dev</a>
+                  </p>
+                </li>
+                <li>
+                  <h6>Weekly Architecture Meetings</h6>
+                  <p>Updates from the community on a weekly basis.</p>
+                  <p class="p-simple-item-bullet">
+                    <a href="https://etherpad.openstack.org/p/katacontainers-2019-architecture-committee-mtgs">View the Etherpad</a>
+                  </p>
+                </li>
+                <li>
+                  <h6>Share your story.</h6>
+                  <p>Are you running Kata Containers?</p>
+                  <p class="p-simple-item-bullet">Contact us at <a href="mailto:info@katacontainers.io">info@katacontainers.io</a>
+                  </p>
+                </li>
+              </ul>
+            </div>
 
-                <p v-if="item.title === 'Slack or IRC'">  
-                  Slack: <a href="http://bit.ly/KataSlack">bit.ly/KataSlack</a>  
-                  IRC: <a href="#kata-dev">#kata-dev</a>  
-                </p>
-
-
-                <a :href="item.link.url">{{ item.link.title }}</a>
-              </template>
-            </list-numeric>
           </div><!-- /.column -->
 
           <div class="column">

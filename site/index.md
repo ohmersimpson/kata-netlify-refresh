@@ -8,22 +8,6 @@ hero:
     title: Get Kata Containers 1.5
     url: https://github.com/kata-containers/runtime/releases/tag/1.5.0
     
-getInvolvedSteps:
-  - title: Join the mailing list
-    entry: Receive email announcements and interaact with the community.
-    link:
-      url: http://lists.katacontainers.io 
-      title: http://lists.katacontainers.io 
-  - title: Slack or IRC
-    entry: Chat with the project team and others using Kata Containers.
-    link:
-      url: http://bit.ly/KataSlack
-      title: 
-  - title: Weekly Architecture Committee Meetings
-    entry: Updates from the community on a weekly basis.
-    link:
-      url: https://etherpad.openstack.org/p/katacontainers-2019-architecture-committee-mtgs
-      title: View the Etherpad
 ---
 
 <home-content>

@@ -4,7 +4,10 @@ description: Advancing Kata Containers and growing the community
 ---
 
 <section class="section section-padding-top-0">
-<a href="mailto:info@katacontainers.io">Interested in supporting Kata Containers</a>?
+<a href="mailto:info@katacontainers.io" class="button is-primary-dark is-rounded"><span>SUPPORT KATA CONTAINERS</span>
+  <span class="ico">
+    <img src="../.vuepress/theme/svg/arrow-left.svg" alt="Learn More" />
+  </span></a>
 <br/><br/>
 
 

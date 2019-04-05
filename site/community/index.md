@@ -5,8 +5,8 @@ description: Join to contribute code, documentation, and use cases
 
 ## Blog
 
+<p><a href="https://medium.com/kata-containers/" target="_blank">View the Full Blog</a></p>
 <last-posts/>
-
 
 ---
 
@@ -15,7 +15,7 @@ Kata Containers is open source, which means it relies on contributors like you! 
 ## How to Contribute
 
 Installation Guides: [View the docs](https://github.com/kata-containers/documentation/tree/master/install)  
-GitHub Repo: [https://github.com/kata-containers](https://github.com/kata-containers)  
+GitHub Repo: [github.com/kata-containers](https://github.com/kata-containers)  
 Overview Deck: [View the presentation](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata-containers-on-boarding-deck-for-website01022018.pdf)  
 Overview One Pager: [View the PDF](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata_containers_overview.pdf)  
 
@@ -25,7 +25,7 @@ Overview One Pager: [View the PDF](https://katacontainers.io/media/uploads/katac
 
 Slack: [bit.ly/KataSlack](https://katacontainers.slack.com/)  
 Freenode IRC: [#kata-dev](http://webchat.freenode.net/?channels=kata-dev) and [#kata-general](http://webchat.freenode.net/?channels=kata-general)  
-Mailing Lists: [http://lists.katacontainers.io/cgi-bin/mailman/listinfo](http://lists.katacontainers.io/cgi-bin/mailman/listinfo)  
+Mailing Lists: [lists.katacontainers.io/cgi-bin/mailman/listinfo](http://lists.katacontainers.io/cgi-bin/mailman/listinfo)  
 E-mail: [info@katacontainers.io](mailto:info@katacontainers.io)  
 Twitter: [@katacontainers](https://twitter.com/katacontainers)  
 

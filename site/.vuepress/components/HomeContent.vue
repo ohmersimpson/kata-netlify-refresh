@@ -86,7 +86,7 @@
  <section class="section search-content">
 
   <div class="search-content">
-    <h3 class="search-content-title">Are your running Kata Containers?</h3>
+    <h3 class="search-content-title">Subscribe to News About Kata</h3>
     <!-- /.hero-title -->
     <div class="search-content-subtitle">Stay up to date on Kata Containers and Open Infrastructure community news.
     </div>

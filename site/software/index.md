@@ -69,7 +69,7 @@ Kata Containers is Apache 2 licensed software consisting of six components: Agen
       alt="title"
     />
   </a> -->
-  <image-modal imgurl="../images/Airship_Diagram_SimplifiedArchitecture.jpg" />
+  <image-modal imgurl="/images/KataContainers_Kubernetes_Integration_Diagram.jpg" />
 
 <p><hr /></p>
 <p>&nbsp;</p>

@@ -1,13 +1,9 @@
 ---
-layout: Home
-title: Kata Containers Home
-
 hero:
-  headline: The speed of containers, the security of VMs
   button:
     title: Get Kata Containers 1.6
-    url: https://github.com/kata-containers/runtime/releases/tag/1.6.0
-    
+    url: 'https://github.com/kata-containers/runtime/releases/tag/1.6.0'
+  headline: 'The speed of containers, the security of VMs'
 ---
 
 <home-content>
@@ -32,7 +28,7 @@ The Kata Containers community is stewarded by the OpenStack Foundation (OSF), wh
 
 In January 2019 the Kata Containers community landed the <a href="https://github.com/kata-containers/runtime/releases/tag/1.5.0">1.5 release</a>, which includes support for the Firecracker hypervisor from AWS, the IMB Z-Series s390x architecture as well as a new method for integrating with the containerd project. 
 
-New hypervisors, new CPU architectures and significant integration improvements.
+New hypervisors, new CPU architectures and significant integration improvements!
 
 </home-announcement>
 

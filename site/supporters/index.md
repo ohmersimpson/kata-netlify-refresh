@@ -23,7 +23,7 @@ description: Advancing Kata Containers and growing the community
   </div>
   <div class="columns">
     <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-amazon.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-packetcloud.svg" alt="title"  /></div>
+    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-packagecloud.svg" alt="title"  /></div>
     <div class="column">  </div>
   </div>
 </div>

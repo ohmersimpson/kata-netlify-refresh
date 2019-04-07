@@ -83,6 +83,15 @@ collections:
           - { label: "Title", name: title, widget: string }
           - { label: "Body", name: body, widget: markdown }
 
+      - label: "FAQ"
+        name: "faq"
+        file: "site/faq/index.md"
+
+        fields:
+          - { label: "Description", name: description, widget: string }
+          - { label: "Title", name: title, widget: string }
+          - { label: "Body", name: body, widget: markdown }
+
       - label: "Community"
         name: "community"
         file: "site/community/index.md"
@@ -92,9 +101,9 @@ collections:
           - { label: "Title", name: title, widget: string }
           - { label: "Body", name: body, widget: markdown }
 
-      - label: "FAQs"
-        name: "faq"
-        file: "site/faq/index.md"
+      - label: "Supporters"
+        name: "supporters"
+        file: "site/supporters/index.md"
 
         fields:
           - { label: "Description", name: description, widget: string }

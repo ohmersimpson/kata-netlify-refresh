@@ -13,7 +13,7 @@ description: An overview of the Kata Containers project
 
 <div class="columns">
   <div class="column">
-   <image-modal imgurl="../images/KataContainers_Architecture_Diagram.jpg" />
+   <image-modal imgurl="../images/kataContainers_architecture_diagram.jpg" />
   </div>
   
   <div class="column">

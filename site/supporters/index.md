@@ -17,14 +17,14 @@ description: Advancing Kata Containers and growing the community
 
 <div class="container container-center">
   <div class="columns">
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-google-cloud.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-microsoft.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-vexxhost.svg" alt="title"  /></div>
+    <div class="column">  <a href="https://cloud.google.com/" target="_blank"><img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-google-cloud.svg" alt="title"  /></a></div>
+    <div class="column">  <a href="https://www.microsoft.com/" target="_blank"><img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-microsoft.svg" alt="title"  /></a></div>
+    <div class="column">  <a href="https://vexxhost.com/" target="_blank"><img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-vexxhost.svg" alt="title"  /></a></div>
   </div>
   <div class="columns">
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-amazon.svg" alt="title"  /></div>
-    <div class="column">  <img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-packagecloud.svg" alt="title"  /></div>
-    <div class="column">  </div>
+    <div class="column">  <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-amazon.svg" alt="title"  /></a></div>
+    <div class="column">  <a href="https://packagecloud.io/" target="_blank"><img class="img-sponsor-l3" src="../.vuepress/theme/images/logo-packagecloud.svg" alt="title"  /></div>
+    <div class="column"></a>  </div>
   </div>
 </div>
 

@@ -32,9 +32,9 @@ description: Advancing Kata Containers and growing the community
 <div class="container-supporter container-supporter-last">
 
   <div class="content-supporter-lt3 ">
-    <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-amazon.svg" alt="title"  /></a></div>
+    <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l2" src="/images/logo-amazon.svg" alt="title"  /></a></div>
   <div class="content-supporter-lt3 ">
-    <a href="https://packagecloud.io/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-packagecloud.svg" alt="title"  /></a></div>
+    <a href="https://packagecloud.io/" target="_blank"><img src="/images/logo-packagecloud.png" alt="title"  /></a></div>
  
 
 </div>  <!-- container-supporter -->
@@ -61,26 +61,26 @@ description: Advancing Kata Containers and growing the community
 <div class="container-supporter">
 
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-intel.png" alt="title"  /></div>
+    <img  src="/images/logo-intel.png" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-huawei.svg" alt="title"  /></div>
+    <img  src="/images/logo-huawei.svg" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-dell.svg" alt="title"  /></div>
+    <img  src="/images/logo-dell.svg" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-redhat.svg" alt="title"  /></div>
+    <img  src="/images/logo-redhat.svg" alt="title"  /></div>
 
 </div>  <!-- container-supporter -->
 
 <div class="container-supporter">
 
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-tencent.svg" alt="title"  /></div>
+    <img  src="/images/logo-tencent.jpg" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-99cloud.jpg" alt="title"  /></div>
+    <img  src="/images/logo-99cloud.jpg" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-china.svg" alt="title"  /></div>
+    <img  src="/images/logo-china.svg" alt="title"  /></div>
   <div class="content-supporter ">
-    <img class="img-sponsor-l4" src="/images/logo-citynetwork.svg" alt="title"  /></div>
+    <img  src="/images/logo-citynetwork.svg" alt="title"  /></div>
 
 </div>  <!-- container-supporter -->
 

@@ -15,7 +15,32 @@ description: Advancing Kata Containers and growing the community
   <h2 class="features">Infrastructure Donors</h2>
 </div>
 
-<div class="container container-center">
+
+
+<div class="container-supporter">
+
+  <div class="content-supporter-lt3 ">
+    <a href="https://cloud.google.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-google-cloud.svg" alt="title"  /></a></div>
+  <div class="content-supporter-lt3 ">
+    <a href="https://www.microsoft.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-microsoft.svg" alt="title"  /></a></div>
+  <div class="content-supporter-lt3 ">
+    <a href="https://vexxhost.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-vexxhost.svg" alt="title"  /></a></div>
+
+</div>  <!-- container-supporter -->
+
+
+<div class="container-supporter container-supporter-last">
+
+  <div class="content-supporter-lt3 ">
+    <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-amazon.svg" alt="title"  /></a></div>
+  <div class="content-supporter-lt3 ">
+    <a href="https://packagecloud.io/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-packagecloud.svg" alt="title"  /></a></div>
+ 
+
+</div>  <!-- container-supporter -->
+
+
+<!-- <div class="container container-center">
   <div class="columns">
     <div class="column">  <a href="https://cloud.google.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-google-cloud.svg" alt="title"  /></a></div>
     <div class="column">  <a href="https://www.microsoft.com/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-microsoft.svg" alt="title"  /></a></div>
@@ -26,12 +51,67 @@ description: Advancing Kata Containers and growing the community
     <div class="column">  <a href="https://packagecloud.io/" target="_blank"><img class="img-sponsor-l3" src="/images/logo-packagecloud.svg" alt="title"  /></a></div>
     <div class="column">  </div>
   </div>
-</div>
+</div> -->
 
 <div class="container1">
   <h2 class="features">Companies Supporting Kata Containers</h2>
 </div>
 
+
+<div class="container-supporter">
+
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-intel.png" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-huawei.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-dell.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-redhat.svg" alt="title"  /></div>
+
+</div>  <!-- container-supporter -->
+
+<div class="container-supporter">
+
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-tencent.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-99cloud.jpg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-china.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-citynetwork.svg" alt="title"  /></div>
+
+</div>  <!-- container-supporter -->
+
+
+<div class="container-supporter">
+
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-united.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-zte.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-mirantis.png" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l4" src="/images/logo-suse.svg" alt="title"  /></div>
+
+</div>  <!-- container-supporter -->
+
+<div class="container-supporter container-supporter-last">
+
+  <div class="content-supporter ">
+    <img class="img-sponsor-l3-last" src="/images/logo-netapp.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l3-last" src="/images/logo-easy.svg" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l3-last" src="/images/logo-fiberhome.png" alt="title"  /></div>
+  <div class="content-supporter ">
+    <img class="img-sponsor-l3-last" src="/images/logo-ubuntu.svg" alt="title"  /></div>
+
+</div>  <!-- container-supporter -->
+
+<!-- 
 <div class="container container-center">
   <div class="columns">
     <div class="column columns-sponsors">  <img class="img-sponsor-l4" src="/images/logo-intel-lg.svg" alt="title"  /></div>
@@ -57,7 +137,7 @@ description: Advancing Kata Containers and growing the community
     <div class="column  columns-sponsors">  <img class="img-sponsor-l3-last" src="/images/logo-fiberhome.svg" alt="title"  /></div>
     <div class="column  columns-sponsors">  <img class="img-sponsor-l3-last" src="/images/logo-ubuntu.svg" alt="title"  /></div>
   </div>
-</div>
+</div> -->
 
 Kata Containers is an open source community stewarded by the OpenStack Foundation (OSF). The Kata Containers community is working to build a secure container runtime with lightweight virtual machines that feel and perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense. 
 

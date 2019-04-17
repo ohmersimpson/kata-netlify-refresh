@@ -1,6 +1,6 @@
 ---
+description: 'Join to contribute code, documentation, and use cases'
 title: Community
-description: Join to contribute code, documentation, and use cases
 ---
 
 ## Blog
@@ -18,6 +18,8 @@ Installation Guides: [View the docs](https://github.com/kata-containers/document
 GitHub Repo: [github.com/kata-containers](https://github.com/kata-containers)  
 Overview Deck: [View the presentation](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata-containers-on-boarding-deck-for-website01022018.pdf)  
 Overview One Pager: [View the PDF](https://katacontainers.io/media/uploads/katacontainers/uploads/katacontainers/kata_containers_overview.pdf)  
+
+Kata Containers contributor metrics are available at [KataContainers.Biterg.io](https://KataContainers.Biterg.io)
 
 ---
 

@@ -15,8 +15,6 @@ title: Supporters
   <h2 class="features">Infrastructure Donors</h2>
 </div>
 
-
-
 <div class="container-supporter">
 
   <div class="content-supporter-lt3 ">
@@ -31,14 +29,12 @@ title: Supporters
 
 <div class="container-supporter container-supporter-last">
 
-
-
   <div class="content-supporter-lt3 ">
     <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l2" src="/images/logo-amazon.svg" alt="title"  /></a></div>
   <div class="content-supporter-lt3 ">
     <a href="https://packagecloud.io/" target="_blank"><img src="/images/logo-packagecloud.png" alt="title"  /></a></div>
   <div class="content-supporter-lt3 ">
-    <a href="https://www.packet.com/" target="_blank"><img src="/images/logo-packetcloud.png" alt="title"  /></a></div>
+    <a href="https://www.packet.com/" target="_blank"><img src="/images/logo-packetcloud.svg" alt="title"  /></a></div>
 
 </div>  <!-- container-supporter -->
 

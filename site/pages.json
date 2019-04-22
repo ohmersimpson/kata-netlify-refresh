@@ -19,6 +19,10 @@
     {
       "text": "Supporters",
       "link": "/supporters/"
+    },
+    {
+      "text": "Blog",
+      "link": "https://medium.com/kata-containers"
     }
   ]
 }

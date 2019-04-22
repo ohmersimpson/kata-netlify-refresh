@@ -34,7 +34,7 @@ title: Supporters
   <div class="content-supporter-lt3 ">
     <a href="https://packagecloud.io/" target="_blank"><img src="/images/logo-packagecloud.png" alt="title"  /></a></div>
   <div class="content-supporter-lt3 ">
-    <a href="https://www.packet.com/" target="_blank"><img src="/images/logo-packetcloud.svg" alt="title"  /></a></div>
+    <a href="https://www.packet.com/" target="_blank"><img src="/images/logo-packet.svg" alt="title"  /></a></div>
 
 </div>  <!-- container-supporter -->
 

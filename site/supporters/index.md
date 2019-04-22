@@ -1,6 +1,6 @@
 ---
-title: Supporters
 description: Advancing Kata Containers and growing the community
+title: Supporters
 ---
 
 <section class="section section-padding-top-0">
@@ -33,11 +33,12 @@ description: Advancing Kata Containers and growing the community
 
 
 
-  <div class="content-supporter-lt2 ">
+  <div class="content-supporter-lt3 ">
     <a href="https://aws.amazon.com/" target="_blank"><img class="img-sponsor-l2" src="/images/logo-amazon.svg" alt="title"  /></a></div>
-  <div class="content-supporter-lt2 ">
+  <div class="content-supporter-lt3 ">
     <a href="https://packagecloud.io/" target="_blank"><img src="/images/logo-packagecloud.png" alt="title"  /></a></div>
- 
+  <div class="content-supporter-lt3 ">
+    <a href="https://www.packet.com/" target="_blank"><img src="/images/logo-packetcloud.png" alt="title"  /></a></div>
 
 </div>  <!-- container-supporter -->
 

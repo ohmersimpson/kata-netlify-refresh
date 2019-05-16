@@ -102,7 +102,6 @@
 
   <b-field position="is-centered">
 
-
     <form method="post" id="e2ma_signup" onsubmit="return signupFormObj.checkForm(this)" action="https://app.e2ma.net/app2/audience/signup/1862950/1771360/">
 
       <input id="id_prev_member_email" name="prev_member_email" type="hidden">
@@ -125,7 +124,7 @@
 
 
     </form>
-
+    
   </b-field>
 
 

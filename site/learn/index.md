@@ -2,7 +2,7 @@
 description: An overview of the Kata Containers project
 title: Learn
 ---
-<p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs.</p>
+<p>Kata Containers are as light and fast as containers and integrate with the container management layers—including popular orchestration tools such as Docker and Kubernetes (k8s)—while also delivering the security advantages of VMs..</p>
 <div class="columns">
   <div class="column"><a href="/collateral/kata-containers-1pager.pdf" class="button is-primary is-rounded">Project Overview</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/kata-containers/runtime/releases" class="button is-primary is-rounded">Latest Software Release</a><br/><br/>  
   </div>

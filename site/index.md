@@ -1,4 +1,5 @@
 ---
+title: Kata Containers Home
 hero:
   button:
     title: Get Kata Containers 1.7

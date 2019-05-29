@@ -1,12 +1,9 @@
 ---
-layout: Home
-title: Kata Containers Home
-
 hero:
-  headline: 'The speed of containers, the security of VMs'
   button:
-    title: Get Kata Containers 1.6
-    url: 'https://github.com/kata-containers/runtime/releases/tag/1.6.0'
+    title: Get Kata Containers 1.7
+    url: 'https://github.com/kata-containers/runtime/releases'
+  headline: 'The speed of containers, the security of VMs'
 ---
 
 <home-content>
